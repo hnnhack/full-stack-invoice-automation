@@ -1,0 +1,54 @@
+main {
+  min-height: 80vh;
+}
+
+.product-title {
+  height: 2.5em; /* Set a fixed height */
+  overflow: hidden; /* Hide overflow content */
+  text-overflow: ellipsis; /* Add ellipsis for long text */
+  white-space: nowrap; /* Prevent wrapping */
+}
+
+table td,
+table th {
+  text-align: center;
+}
+
+.navbar-orange {
+  background-color: rgba(255, 98, 0, 0.984) !important; /* Important to override default Bootstrap styles */
+}
+
+.menu-item {
+  color: rgb(255, 255, 255);
+}
+
+.menu-item:hover {
+  color: rgb(255, 255, 255); 
+  border-color: rgb(255, 255, 255);
+}
+
+.logout-button {
+  background-color: white;
+  color: rgba(255, 98, 0, 0.984);
+  border-color: rgba(255, 98, 0, 0.984);
+}
+
+.logout-button:hover {
+  color: rgb(255, 255, 255); /* Color on hover */
+  background-color: rgb(255, 0, 0); /* Background color on hover */
+}
+
+
+/* styles.css or equivalent */
+@keyframes shake {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(-5px); }
+  50% { transform: translateX(5px); }
+  75% { transform: translateX(-5px); }
+  100% { transform: translateX(0); }
+}
+
+.shake {
+  animation: shake 0.5s;
+}
+
