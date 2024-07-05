@@ -64,9 +64,9 @@ To get started with the app, follow these steps:
    ```sh
    git clone https://github.com/hnnhack/full-stack-invoice-automation.git
    cd https://github.com/hnnhack/full-stack-invoice-automation.git
-  
+  ```
 2. **Install Dependencies**:
-   ```sh
+  ```sh
   npm install
   cd client
   npm install
@@ -74,7 +74,7 @@ To get started with the app, follow these steps:
 3. **Create .env file**:
 
 Create `.env` file in the `root folder`. Example `.env` shown below
-   ```sh
+  ```sh
   PORT=5000
   ACCESS_URL="https://your-access-url"
   ACCESS_CREDENTIALS="your-creadentials-here"
