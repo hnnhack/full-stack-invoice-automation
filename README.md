@@ -64,7 +64,7 @@ To get started with the app, follow these steps:
    ```sh
    git clone https://github.com/hnnhack/full-stack-invoice-automation.git
    cd https://github.com/hnnhack/full-stack-invoice-automation.git
-  ```
+  
 2. **Install Dependencies**:
    ```sh
   npm install
