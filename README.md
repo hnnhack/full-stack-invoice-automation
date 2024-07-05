@@ -71,7 +71,7 @@ To get started with the app, follow these steps:
   cd client
   npm install
   ```
-3. **Install Dependencies**:
+3. **Create .env file**:
 
 Create `.env` file in the `root folder`. Example `.env` shown below
    ```sh
@@ -88,7 +88,6 @@ Create `.env` file in the `root folder`. Example `.env` shown below
 5. **Start the Client**
   ```sh
   npm run client
-  ```
   ```
 6. **Start Full Stack Concurrently**
   ```sh
