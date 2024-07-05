@@ -69,7 +69,7 @@ To get started with the app, follow these steps:
 2. **Install Dependencies**:
   ```sh
   npm install
-  cd client
+  cd frontend
   npm install
   ```
 3. **Create .env file**:
