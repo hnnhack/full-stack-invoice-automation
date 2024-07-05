@@ -61,10 +61,10 @@ This Full Stack Invoice Automation App streamlines the process of generating and
 To get started with the app, follow these steps:
 
 1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/hnnhack/full-stack-invoice-automation.git
-   cd full-stack-invoice-automation
-   ```
+  ```sh
+  git clone https://github.com/hnnhack/full-stack-invoice-automation.git
+  cd full-stack-invoice-automation
+  ```
 
 2. **Install Dependencies**:
   ```sh
